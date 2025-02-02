@@ -1,0 +1,7 @@
+streamlit
+praw
+openai
+langchain
+faiss
+numpy
+faiss-cpu
